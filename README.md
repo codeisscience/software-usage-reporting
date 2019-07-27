@@ -12,7 +12,12 @@ Out of scope of team:
  - long term maintenance of the lightweight reporting format
 
 Deliverables:
- - guidance document
+ - guidance document for paper writers, editors, and reviwers
+ - guidance documents for different types of research software authors/maintainers:
+    - For command line tool authors, see https://github.com/codeisscience/software-usage-reporting/issues/6
+    - Electronic notebooks
+    - (Web) services
+    - GUIs
  - lightweight intermediate format (JSON?)
  - MVP tooling
 
