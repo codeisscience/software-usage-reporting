@@ -27,3 +27,6 @@ Project milestones:
 7. ~2 rounds of global feedback
 8. Submission to appropriate journal
 9. Archive this repo by 2020-07-27
+
+
+History: This project started at BOSC 2019, beginning with a BoF. The notes of the BoF are [here](https://docs.google.com/document/d/1sDSA7BfcimTAIt-GKplxfL3JjAjRsN4xRPbSoMWHmwc/edit#)
